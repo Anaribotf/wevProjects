@@ -4,6 +4,7 @@ const images = [
   "images/henry.jpg",
   "images/the-revenant.jpg",
   "images/ironman.jpg"
+
 ];
 
 const headings = ["New Heading 1", "New Heading 2", "The revenant", "New Heading 4"];
@@ -23,9 +24,9 @@ const galleryImages = [
     detail: "He fought in World War II and symbolizes patriotism."
   },
   {
-    src: "images/OIP.jpeg",
-    title: "Marvel Superheroes",
-    description: "Iconic characters in the Marvel Universe.",
+    src: "images/one.jpeg",
+    title: "one piece",
+    description: "the greatest story ever told",
     detail: "They protect the world from various threats."
   },
   {
