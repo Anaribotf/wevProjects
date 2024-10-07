@@ -96,7 +96,7 @@ const galleryImages = [
     detail: "He fought in World War II and symbolizes patriotism."
   },
   {
-    src: "images/OIP.jpeg",
+    src: "images/one.jpeg",
     title: "Marvel Superheroes",
     description: "Iconic characters in the Marvel Universe.",
     detail: "They protect the world from various threats."
